@@ -89,6 +89,7 @@ To improve query performance, we carried out the following optimization process:
         - Execution time (E.T.): **4 ms**
         - Planning time (P.T.): **0.056 ms**
     - Below is the **screenshot** of the `EXPLAIN` result before optimization:
+      
       ![EXPLAIN Before Index](https://github.com/thesmartlad/Spotify-data-analysis/blob/main/before%20query%20optimization.png)
 
 - **Index Creation on the `artist` Column**
@@ -103,6 +104,7 @@ To improve query performance, we carried out the following optimization process:
         - Execution time (E.T.): **0.090 ms**
         - Planning time (P.T.): **0.917 ms**
     - Below is the **screenshot** of the `EXPLAIN` query's explaination and it's result after index creation:
+      
       ![Performance Graph](https://github.com/thesmartlad/Spotify-data-analysis/blob/main/after%20query%20optimization%20(analysis).png)
       ![EXPLAIN After Index](https://github.com/thesmartlad/Spotify-data-analysis/blob/main/after%20query%20optimization.png)
 
@@ -114,4 +116,3 @@ To improve query performance, we carried out the following optimization process:
 
 
 This optimization shows how indexing can drastically reduce query time, improving the overall performance of our database operations in the Spotify project.
----
