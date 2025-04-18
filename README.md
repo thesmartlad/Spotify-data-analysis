@@ -107,7 +107,8 @@ To improve query performance, we carried out the following optimization process:
       ![EXPLAIN After Index](https://github.com/thesmartlad/Spotify-data-analysis/blob/main/after%20query%20optimization.png)
 
 - **Graphical Performance Comparison**
-    - Diagrams illustrating the comparison between initial query execution time and optimized query execution time after index creation
+    - Diagrams illustrating the comparison between initial query execution time and optimized query execution time after index creation:
+      
       ![Performance Graph](https://github.com/thesmartlad/Spotify-data-analysis/blob/main/before%20query%20optimization%20(graphical).png)
       ![Performance Graph](https://github.com/thesmartlad/Spotify-data-analysis/blob/main/after%20query%20optimization%20(graphical).png)
 
