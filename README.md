@@ -1,4 +1,4 @@
-## Spotify-data-analysis and query optimization
+## Spotify-data-analysis and query optimization project
 Project Category: Advanced
 [Click Here to get Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 
